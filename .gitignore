@@ -1,2 +1,4 @@
 LocalSettings.php
 .idea/
+scripts/push-dev
+scripts/push-production
